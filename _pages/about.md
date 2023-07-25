@@ -2,26 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='www.linkedin.com/in/nicolasformet'>Linkedin</a>. <a href='mailto:nicolas.formet@hotmail.fr'> Contactez-moi ;) </a> 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-This is a test.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Après un master de commerce et plusieurs années à travailler en tant qu'ingénieur informatique pour de grands comptes, j'ai choisi d'orienter ma carrière vers développement de sites internet, la digitalisation et l'assistance informatique pour les sociétés à taille humaine en tant qu'indépendant. 
+Mon expérience auprès de clients tels que la SNCF, la Caisse Nationale d'Assurance Maladie, Ikos Immobilier ou encore Michelin, m'a permis d'obtenir les connaissances nécessaires à la réalisation de projets informatiques. J'y ai développé un éventail de compétences autour du développement de site internet et d'applications, du design, de la cybersécurité, du SEO, de l'écoconception web et de la gestion de projets informatique.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Je vous propose mes services pour vous aider à communiquer en ligne, offrir de la visibilité à votre entreprise et choisir les outils du web les plus adaptés pour accomplir vos  tâches, gagner en productivité, vous simplifier la vie et sortir du lot par rapport à la concurrence, améliorer votre SI ou encore vous protéger contre les cyber-menaces.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+N'hésitez pas à me contacter, je me ferai un plaisir d'échanger avec vous sur vos futurs besoins informatiques.
+
