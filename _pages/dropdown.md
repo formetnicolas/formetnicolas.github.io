@@ -3,9 +3,9 @@ layout: page
 title: submenus
 nav: true
 nav_order: 6
-dropdown: true
+dropdown: false
 children: 
     - title: divider
-    - title: projects
+    - title: projets
       permalink: /projects/
 ---
