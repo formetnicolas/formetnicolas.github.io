@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='www.linkedin.com/in/nicolasformet'>Linkedin</a>. <a href='mailto:nicolas.formet@hotmail.fr'> Contactez-moi ;) </a> 
+subtitle: <a href='www.linkedin.com/in/nicolasformet'>Linkedin</a>. <a href='mailto:nicolas.formet@hotmail.fr'> Contactez-moi ;) </a> Ingénieur Informatique à Lyon.
 
 profile:
   align: right
