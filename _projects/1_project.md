@@ -2,7 +2,7 @@
 layout: page
 title: Site du groupe Stonedeaf
 description: Réalisation d'un site pour le groupe Stonedeaf.
-img: assets/img/capture-stonedeaf-site.jpg
+img: assets/img/Capture-stonedeaf-site.JPG
 importance: 1
 category: work
 ---

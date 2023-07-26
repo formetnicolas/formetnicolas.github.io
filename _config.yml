@@ -119,7 +119,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Nicolas Formet Portofolio # blog_name will be displayed in your blog page
+blog_name: Nicolas Formet Blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description:  Découvrez le blog de Nicolas Formet, un développeur web expérimenté. Explorez les articles et sujets autour de la création de sites web, administration des réseaux, assistance informatique et services de cybersécurité.
 permalink: /blog/:year/:title/
