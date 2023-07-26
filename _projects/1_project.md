@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-Voici un exemple de site que j'ai construit pour mon client, le groupe vosgiens Stonedeaf. Vous pouvez consulter mon travail en vous rendant directement sur leur site :<a href='www.stonedeaf.fr'> www.stonedeaf.fr</a>.
+Voici un exemple de site que j'ai construit pour mon client, le groupe vosgiens Stonedeaf. Vous pouvez consulter mon travail en vous rendant directement sur leur site :<a href='https://www.stonedeaf.fr'> www.stonedeaf.fr</a>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
