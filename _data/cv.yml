@@ -1,12 +1,39 @@
-- title: Voici mon parcours
+- title: Mon parcours
   type: map
   contents:
-    - name: Full Name
+    - name: Nom
       value: Nicolas Formet
     - name: Date de naissance
       value: 28 novembre 1993
-    - name: Languages
+    - name: Langues
       value: Francais, Anglais (courant)
+
+- title: Experiences
+  type: time_table
+  contents:
+    - title: Ingénieur Informatique
+      institution: LR Technologies 
+      year: juin à Novembre 2022
+      description: Client Michelin.
+
+    - title: Ingénieur Informatique
+      institution: Sopra Steria
+      year: 2019 à 2022
+      description:
+        - Client CNAM, SNCF, Ikos Immobilier
+
+    - title: Stage Développeur Web
+      institution: Axopen
+      year: 2018 à 2019
+
+    - title: Stage Coordinateur Commercial International
+      institution: Solvay
+      year: 2017
+      description: Implémentation du projet Confluence (base de données pour le partage d'information). Formation et support pour l'outil Confluence. Aide et support pour les outils du E-business. Participation au groupe de projet d'amélioration continue du service. Aide au Change management. Aide à la mise en place de KPI.
+
+    - title: Stage Chef de Rayon
+      institution: Conforama
+      year: 2015
 
 - title: Formations
   type: time_table
@@ -45,35 +72,7 @@
       description:
         - Le DUT Techniques de Commercialisation forme de futurs cadres intermédiaires capables d'intervenir dans toutes les étapes de la commercialisation d'un bien ou d'un service, de l'étude de marché à la vente en passant par la stratégie marketing, la communication commerciale, la négociation et la relation client.
 
-
-- title: Experiences
-  type: time_table
-  contents:
-    - title: Ingénieur Informatique
-      institution: LR Technologies 
-      year: juin à Novembre 2022
-      description: Client Michelin.
-
-    - title: Ingénieur Informatique
-      institution: Sopra Steria
-      year: 2019 à 2022
-      description:
-        - Client CNAM, SNCF, Ikos Immobilier
-
-    - title: Stage Développeur Web
-      institution: Axopen
-      year: 2018 à 2019
-
-    - title: Stage Coordinateur Commercial International
-      institution: Solvay
-      year: 2017
-      description: Implémentation du projet Confluence (base de données pour le partage d'information). Formation et support pour l'outil Confluence. Aide et support pour les outils du E-business. Participation au groupe de projet d'amélioration continue du service. Aide au Change management. Aide à la mise en place de KPI.
-
-    - title: Stage Chef de Rayon
-      institution: Conforama
-      year: 2015
-
 - title: Hobbies
   type: list
   contents:
-    - <u>Hobbies:</u> Musique, Sport, Dessin.
+    - Musique, Sport, Dessin.

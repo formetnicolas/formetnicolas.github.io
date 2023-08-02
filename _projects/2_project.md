@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Site L'Immo Pour Vous
-description: Un projet de site internet pour une agence immobilière.
+description: Réalisation d'un site internet pour une agence immobilière vosgienne.
 img: assets/img/logo-immopourvous.jpg
 importance: 2
 category: work
