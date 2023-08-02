@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Nicolas Formet # the website title (if blank, full name will be used instead)
+title: Nicolas Formet - Création de site internet - SEO - Sécurité # the website title (if blank, full name will be used instead)
 first_name: Nicolas
 middle_name: 
 last_name: Formet
 email: nicolas.formet@hotmail.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
- Découvrez le portfolio en ligne de Nicolas Formet, un développeur web - ingénieur informatique expérimenté spécialisé en développement informatique et cybersécurité. Explorez ses projets, compétences et réalisations dans le domaine de l'informatique. Contactez-le pour vos projets de création de sites web, administration des réseaux, assistance informatique et services de cybersécurité en freelance.
+ Portfolio de Nicolas Formet, ingénieur informatique expérimenté spécialisé en développement, SEO et cybersécurité. Contactez-moi pour vos projets de création de sites web, administration des réseaux, assistance informatique et services de cybersécurité en freelance.
 footer_text: 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
